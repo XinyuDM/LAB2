@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BusinessCard>
+	<name> Henry Peng</name>
+	<position> Student</position>
+	<email>	xinyu.peng@dcmail.ca</email>
+	<phone type="cell">	226-450-3417</phone>
+	<phone type="work">	226-450-3417</phone>
+</BusinessCard>
+</?xml>
